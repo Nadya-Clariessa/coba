@@ -1,5 +1,6 @@
 import streamlit as st
 
+# Input suhu
 x = st.number_input("Masukkan suhu")
 sx = st.text_input("Satuan", "c")
 st.write("Anda menginput suhu ", x," dengan satuan ", sx )
