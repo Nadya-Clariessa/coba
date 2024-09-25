@@ -9,4 +9,4 @@ if (sx == "c"):
 else:
   pass
 
-st.write("Hasil konversi ", x," dengan satuan ", x,sx," adalah ...", sy )
+st.write("Hasil konversi ", x," dengan satuan ",x,sx," adalah ...", sy )
